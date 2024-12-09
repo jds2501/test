@@ -1,1 +1,1 @@
-My journey evolves into an adventure with Git - this is a fast forward!
+My journey evolves into an adventure with Git - this is the original file on master!
