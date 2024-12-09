@@ -1,1 +1,1 @@
-My journey evolves into an adventure with Git - this is the original file on master!
+My journey evolves into an adventure with Git - this will conflict!
